@@ -1,0 +1,28 @@
+git config --global user.name "user_test"       
+git config --global user.email "aa@aa.com"
+	初始化(用户名,email)
+	区分用户
+1.git init  
+	生成.git文件(初始化)
+2.git status
+3.git add "路径(具体文件/文件夹)"
+4.git commit -m "第一次提交"
+	-m  注释
+5.git log   console出来
+6.git show ...(版本)
+7.删除
+	rm		删除本地
+	git rm  删除等待区
+
+
+分支
+	git branch "分支name"
+		创建分支
+	git checkout 分支名
+
+远程
+
+
+
+
+
